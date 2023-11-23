@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+    "keywords": [ "descriptive", "related", "words" ],
     "author": "Ronald Abel",
     "description": "A project that does something awesome"
 }
