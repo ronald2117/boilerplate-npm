@@ -13,5 +13,6 @@
 	},
     "keywords": [ "descriptive", "related", "words", "freecodecamp", "awesome" ],
     "author": "Ronald Abel",
-    "description": "A project that does something awesome"
+    "description": "A project that does something awesome",
+    "license": "MIT"
 }
