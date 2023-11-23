@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-    "keywords": [ "descriptive", "related", "words" ],
+    "keywords": [ "descriptive", "related", "words", "freecodecamp", "awesome" ],
     "author": "Ronald Abel",
     "description": "A project that does something awesome"
 }
